@@ -27,3 +27,11 @@ nav li a:hover {
     color: #d9d9d9;
     text-decoration: none;
 }
+
+#gif {
+    background-image: url('https://i.gifer.com/BvDU.gif');
+    background-size: cover;
+    height: 80vh;
+    padding:0;
+    margin:0;
+}
